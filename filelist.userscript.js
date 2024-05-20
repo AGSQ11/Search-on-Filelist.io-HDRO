@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Adds a custom tooltip for searching selected text after selection is done
-// @author       You
+// @author       AGSQ11
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
